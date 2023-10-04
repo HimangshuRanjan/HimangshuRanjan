@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HimangshuRanjan
-<!-- 👀 I’m interested in ...-->
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in Web Development, Problem Solving, Robotics, etc
+- 🌱 I’m currently learning ReactJs.
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me hr5saikia@gmail.com
 
