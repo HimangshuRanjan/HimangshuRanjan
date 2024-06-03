@@ -1,7 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+4&size=35&pause=1000&color=24A627&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B;Let's+Connect!%F0%9F%98%80%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+4&size=40&pause=1000&color=25B328&random=false&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Himangshu+Ranjan;Welcome+to+my+GitHub+profile!%F0%9F%91%8B;Let's+Connect!%F0%9F%98%80%F0%9F%9A%80)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<ul>
+  <li>
+    <p>🌱 I’m currently learning AI,ML, etc</p>
+  </li>
+  <li>
+    <p>💬 Ask me about Frontend</p>
+  </li>
+  <li>
+    <p>
+      📫 How to reach me
+      <strong>
+        <a href="hr5@gmail.com">
+          hr5@gmail.com
+        </a>
+      </strong>
+    </p>
+  </li>
+</ul>
 
 
 ## 🌐 Socials:
