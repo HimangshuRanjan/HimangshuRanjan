@@ -6,7 +6,7 @@
     <p>🌱 I’m currently learning AI,ML, etc</p>
   </li>
   <li>
-    <p>💬 Ask me about Frontend</p>
+    <p>💬 Ask me about HTML,CSS,JS</p>
   </li>
   <li>
     <p>
