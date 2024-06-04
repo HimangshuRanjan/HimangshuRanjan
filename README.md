@@ -12,8 +12,8 @@
     <p>
       📫 How to reach me
       <strong>
-        <a href="hr5@gmail.com">
-          hr5@gmail.com
+        <a href="hr5saikia@gmail.com">
+          hr5saikia@gmail.com
         </a>
       </strong>
     </p>
