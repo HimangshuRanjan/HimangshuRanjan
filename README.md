@@ -3,10 +3,10 @@
 # 💫 About Me:
 <ul>
   <li>
-    <p>🌱 I’m currently learning AI,ML, etc</p>
+    <p>🌱 I’m currently learning ML & Deep Learning</p>
   </li>
   <li>
-    <p>💬 Ask me about HTML,CSS,JS</p>
+    <p>💬 Ask me about Python, JS</p>
   </li>
   <li>
     <p>
